@@ -1,0 +1,24 @@
+Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___
+Sequência de números ímpares, portanto o próximo elemento seria 9. 9 é o próximo elemento da sequência.
+
+
+b) 2, 4, 8, 16, 32, 64, ____
+Sequência de potência de 2. Cada número é o dobro do anterior. Portanto o próximo numero é 128 (64 *2)
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Sequência de números quadrados. Cada número é o quadrado do número inteiro, em sua ordem crescente. Portanto o próximo número é 49 (7²).
+
+
+d) 4, 16, 36, 64, ____
+Sequência de números quadrados de números pares.
+Cada número é o quadrado do número par, em sua ordem crescente. Portanto o próximo número é 100 (10²).
+
+e) 1, 1, 2, 3, 5, 8, ____
+Sequência de Fibonacci, pedida na questão número 1. Cada número é a sooma dos dois anteriores. Ou seja, 5 + 8 = 13. Portanto o próximo número é 13.
+
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+A lógica parece ser a alternância entre números primos e não primos, mantendo uma crescente. O próximo número na sequência deve ser 20, pois é o menor número não primo maior que 19.
+
+Então, a sequência completa seria: 2, 10, 12, 16, 17, 18, 19, 20.

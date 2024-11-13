@@ -1,0 +1,13 @@
+EU ligaria o primeiro interruptor e deixaria ligado por uns 20minutos, 
+fazendo com que a lâmpada esquente. Depois desse período de tempo, apagaria 
+a lâmpada e na sequência ligaria o segundo interruptor. 
+
+Na sequência iria até uma das salas e verificaria se a lâmpada está acesa, apagada 
+e quente ou apagada e fria.
+ Se estiver ligada, corresponde ao segundo, se estiver apagada e quente corresponde 
+ ao primeiro interruptor e se estiver apagada e fria corresponde ao terceiro interruptor.
+
+ Posteriormente iria para a segunda sala e verificaria novamente as lâmpadas, com a mesma 
+ lógica anterior. Sabendo de 2 resultados, só me restaria o terceiro. Assim eu descobriria
+ quais eram os interruptores.
+
